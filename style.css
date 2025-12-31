@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(75, 184, 209);
+}
+
+header {
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+#storage {
+    text-align: center;
+    background-color: cadetblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+form input[type="radio"] {
+  display: inline-block;
+  text-align: center;  
+  margin: 0 4px 0 40px; 
+}
+
+#results {
+   text-align: center;
+    background-color: rgb(130, 200, 202);
+    padding: 10px;
+     margin: 0 400px 0 400px; 
+      border-radius: 10px;
+}
+#results ul {
+display: inline-block;
+text-align: left;
+}
